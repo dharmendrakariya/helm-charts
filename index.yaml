@@ -55,4 +55,26 @@ entries:
     urls:
     - https://github.com/dharmendrakariya/helm-charts/releases/download/demo5-0.1.0/demo5-0.1.0.tgz
     version: 0.1.0
+  demo6:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-15T11:04:36.868688279Z"
+    description: A Helm chart for Kubernetes
+    digest: bad70ab1d0bb95236874a5e165eea4d83dde64a00abaee0b2508f25de742a928
+    name: demo6
+    type: application
+    urls:
+    - https://github.com/dharmendrakariya/helm-charts/releases/download/demo6-0.1.0/demo6-0.1.0.tgz
+    version: 0.1.0
+  demo7:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-15T11:04:37.075041892Z"
+    description: A Helm chart for Kubernetes
+    digest: 7eced2e47909ba7afd8981ea4f89265bdaae41c24690404ed2db1c19a34837e8
+    name: demo7
+    type: application
+    urls:
+    - https://github.com/dharmendrakariya/helm-charts/releases/download/demo7-0.1.0/demo7-0.1.0.tgz
+    version: 0.1.0
 generated: "2021-09-27T06:27:45.553632772Z"
