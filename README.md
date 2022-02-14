@@ -18,3 +18,6 @@ To install the <chart-name> chart:
 To uninstall the chart:
 
     helm delete my-<chart-name>
+
+ 
+### DOC: https://faun.pub/how-to-host-helm-chart-repository-on-github-b76c854e1462
